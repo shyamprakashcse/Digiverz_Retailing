@@ -1,0 +1,80 @@
+.retailer{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.retailhead{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: var(--green-100);
+}
+
+.retailhead button{
+    height:50px; 
+    margin:1%; 
+}
+
+
+
+.retailheader{
+    background-color: var(--yellow-100);
+    width:fit-content; 
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin: 1%;
+
+}
+
+.retaildescheader{
+   background-color: var(--yellow-100);
+}
+
+.retaildesc img{
+   margin: 2%;
+    
+  
+   
+}
+
+.distplt{
+  position: relative;
+  left:25%; 
+}
+
+.heatmap{
+    width:500px; 
+    height:500px; 
+    position: relative;
+    left:20%; 
+}
+
+.result{
+    background-color: var(--red-100);
+    font-weight: bold;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.retailzoomdrop{
+    margin:2%; 
+    font-weight: bold;
+    font-size: large;
+    
+  }
+  
+  .retailzoomcal{
+    margin:2%; 
+  }
+
+  .summary{
+    background-color: var(--yellow-100);
+    font-weight: bold;
+    width:fit-content; 
+    position: relative;
+    left:20%; 
+
+  }
+
+  .copyright{
+    margin-top:2%; 
+    background-color: var(--red-100);
+  }

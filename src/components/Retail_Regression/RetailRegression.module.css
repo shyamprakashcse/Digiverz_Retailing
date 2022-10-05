@@ -1,0 +1,82 @@
+.retailer{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.retailhead{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: var(--purple-500);
+}
+
+.retailhead button{
+    height:50px; 
+    margin:1%; 
+}
+
+
+
+
+
+.retailheader{
+    /* background-color: var(--yellow-100); */
+    background-color: white;
+    width:fit-content; 
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin: 1%;
+
+}
+
+.retaildescheader{
+    background-color: var(--blue-100);
+    /* width:500px;  */
+    width: fit-content;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-left:5px solid black; 
+    margin-left: 1%;
+ }
+ .retailzoomdrop{
+    margin:2%; 
+    font-weight: bold;
+    font-size: large;
+    
+  }
+  
+  .retailzoomcal{
+    margin:2%; 
+  }
+  .wcssheader{
+    background-color: var(--orange-100);
+    width:max-content; 
+    /* position: relative;
+    left:25%;  */
+ }
+
+ .wcssimg{
+    width:50%; 
+    height:50%; 
+    position: relative;
+    left:25%; 
+ } 
+
+ .algodiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+ }
+
+ .silhouteeimg{
+    margin-bottom: 2%;
+    margin-top: 2%;
+    width:800px;
+    height:1000px;  
+    position: relative;
+    left:15%;  
+ }
+
+ .copyright{
+    margin-top:2%; 
+    background-color: var(--red-100);
+  } 

@@ -1,0 +1,24 @@
+.reghist{
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.reghisthead{
+    background-color: aquamarine;
+}
+
+.rrtab{
+    cursor: pointer;
+}
+
+.rephead{
+    background-color: var(--orange-100);
+}
+.repheadbtn{
+    position: relative;
+    left:90%;  
+}
+.copyright{
+    margin-top:2%; 
+    background-color: var(--red-100);
+  } 
